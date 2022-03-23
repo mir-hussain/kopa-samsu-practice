@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "GLOCK 17 Gen5",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/glock.png",
+    "bullet": "9mm",
+    "capacity": "17 + 1",
+    "action": "Semi-Automatic",
+    "price": "540",
+    "category": "Pistol"
+  },
+  {
+    "id": 2,
+    "name": "FN 509 Tactical",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/FN.png",
+    "bullet": "9mm",
+    "capacity": "10 + 1",
+    "action": "Semi-Automatic",
+    "price": "900",
+    "category": "Pistol"
+  },
+  {
+    "id": 3,
+    "name": "Kimber Custom 1911",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/ki%2Cber.png",
+    "bullet": "45 ACP",
+    "capacity": "7 + 1",
+    "action": "Semi-Automatic",
+    "price": "900",
+    "category": "Pistol"
+  },
+  {
+    "id": 4,
+    "name": "Beretta M9A4 RDO",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/beretta.png",
+    "bullet": "9mm",
+    "capacity": "18 + 1",
+    "action": "Semi-Automatic",
+    "price": "1000",
+    "category": "Pistol"
+  },
+  {
+    "id": 5,
+    "name": "Beretta A400 Xcel",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/beretta-shotgun.png",
+    "bullet": "12 Gauge",
+    "capacity": "3 + 1",
+    "action": "Semi-Automatic",
+    "price": "1720",
+    "category": "Shotgun"
+  },
+  {
+    "id": 6,
+    "name": "Benelli M1014",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/benalim4.png",
+    "bullet": "12 Gauge",
+    "capacity": "5 + 1",
+    "action": "Semi-Automatic",
+    "price": "1900",
+    "category": "Shotgun"
+  },
+  {
+    "id": 7,
+    "name": "Browning Citori 725",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/Browning.png",
+    "bullet": "12 Gauge",
+    "capacity": "2",
+    "action": "Double Shot",
+    "price": "5430",
+    "category": "Shotgun"
+  },
+  {
+    "id": 8,
+    "name": "Winchester SXP",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/winchester.png",
+    "bullet": "12 Gauge",
+    "capacity": "5 + 1",
+    "action": "Pump",
+    "price": "570",
+    "category": "Shotgun"
+  },
+  {
+    "id": 9,
+    "name": "Bergara B-14 HMR",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/bergara.png",
+    "bullet": "6.5 Creedmoor",
+    "capacity": "5",
+    "action": "Semi-Automatic",
+    "price": "970",
+    "category": "Rifle"
+  },
+  {
+    "id": 10,
+    "name": "Smith & Wesson M&P15",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/S%26WM%26P15.png",
+    "bullet": "5.56x45mm NATO",
+    "capacity": "30 + 1",
+    "action": "Semi-Automatic",
+    "price": "800",
+    "category": "Rifle"
+  },
+  {
+    "id": 11,
+    "name": "Ruger AR-556",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/RugerAR556.png",
+    "bullet": ".223 NATO",
+    "capacity": "30+1",
+    "action": "Semi-Automatic",
+    "price": "750",
+    "category": "Rifle"
+  },
+  {
+    "id": 12,
+    "name": "Ruger AR-556 MPR",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/RugerAR556RMP.png",
+    "bullet": ".223 NATO",
+    "capacity": "30 + 1",
+    "action": "Semi-Automatic",
+    "price": "880",
+    "category": "Rifle"
+  },
+  {
+    "id": 13,
+    "name": "Savage 110 Elite",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/savage110.png",
+    "bullet": ".300 Winchester Magnum",
+    "capacity": "5",
+    "action": "Bolt",
+    "price": "1870",
+    "category": "Rifle"
+  }
+]

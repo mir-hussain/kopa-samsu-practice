@@ -1,0 +1,58 @@
+.card {
+  background-color: #c4c4c4;
+  height: 570px;
+  width: 350px;
+  padding: 15px;
+  position: relative;
+  justify-self: center;
+  clip-path: polygon(15% 0%, 100% 0, 100% 90%, 85% 100%, 0 100%, 0% 10%);
+}
+
+.image-container {
+  width: 320px;
+  height: 320px;
+  background-color: #fff;
+  padding: 25px;
+  clip-path: polygon(15% 0%, 100% 0, 100% 86%, 85% 100%, 0 100%, 0% 16%);
+}
+
+.image-container img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.add-to-cart {
+  width: calc(100% - 30px);
+  height: 50px;
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  right: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.add-to-cart h1 {
+  margin-left: 25px;
+}
+
+.add-to-cart button {
+  background-color: #fff;
+  border: none;
+  height: 50px;
+  width: 50px;
+  cursor: pointer;
+}
+
+.gun-info {
+  margin: 20px 0;
+  height: calc(100% - 410px);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.icon {
+  font-size: 1.5rem;
+}

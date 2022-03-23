@@ -1,0 +1,36 @@
+.navbar {
+  background-color: #5c5c5c;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  padding: 0 100px;
+  top: 0;
+  z-index: 1;
+}
+
+.navbar h1 {
+  margin-left: 15px;
+  font-size: 40px;
+  color: white;
+  font-family: "Metamorphous", cursive;
+}
+
+.cart-counter {
+  position: relative;
+  cursor: pointer;
+}
+
+.cart-counter span {
+  position: absolute;
+  top: -20px;
+  right: -15px;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  border-radius: 100px;
+  background: rgba(179, 0, 0, 0.493);
+  padding: 5px;
+  color: white;
+}
